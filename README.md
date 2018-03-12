@@ -4,5 +4,5 @@
 
 ### 3/8/2018
 
-- 1 [On Nonlinear Dimensionality Reduction, Linear Smoothing and Autoencoding](https://github.com/rwang92/PaperReviews/blob/master/NLDR.md) *Daniel Ting, Michael Jordan*
+- 1 [On Nonlinear Dimensionality Reduction, Linear Smoothing and Autoencoding](https://github.com/rwang92/PaperReviews/blob/master/Doc/NLDR.md) *Daniel Ting, Michael Jordan*
 
