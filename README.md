@@ -8,7 +8,7 @@
 
 - 2 [Neural Ordinary Differential Equations](https://github.com/rwang92/PaperReviews/blob/master/Doc/NODE.md)*Tian Qi Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud*
 
-- 3 [Hamiltonian Descent Methods](https://arxiv.org/abs/1809.05042) *Chris J. Maddison, Daniel Paulin, Yee Whye Teh, Brendan O'Donoghue, Arnaud Doucet*
+- 3 [Hamiltonian Descent Methods](https://github.com/rwang92/PaperReviews/blob/master/Doc/HDM.md) *Chris J. Maddison, Daniel Paulin, Yee Whye Teh, Brendan O'Donoghue, Arnaud Doucet*
 
 ### 3/8/2018
 
