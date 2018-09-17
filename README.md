@@ -4,7 +4,7 @@
 
 ### 9/15/2018
 
-- 1 [Neural Arithmetic Logic Units](https://github.com/rwang92/PaperReviews/blob/master/Doc/NALU.md)*Andrew Trask, Felix Hill, Scott Reed, Jack Rae, Chris Dyer, Phil Blunsom*
+- 1 [Neural Arithmetic Logic Units](https://github.com/rwang92/PaperReviews/blob/master/Doc/NALU.md) *Andrew Trask, Felix Hill, Scott Reed, Jack Rae, Chris Dyer, Phil Blunsom*
 
 - 2 [Neural Ordinary Differential Equations](https://github.com/rwang92/PaperReviews/blob/master/Doc/NODE.md)*Tian Qi Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud*
 
