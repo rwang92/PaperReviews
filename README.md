@@ -14,8 +14,9 @@ Updates about Reading or Readed Paper or Articles
 
 - 1 [A Convergence Theory for Deep Learning via Over-Parameterization](https://arxiv.org/pdf/1811.03962.pdf) *Zeyuan Allen-Zhu, Yuanzhi Li, Zhao Song*
 
-- 2 [Gradient Descent Finds Global Minima of Deep Neural Networks](Gradient Descent Finds Global Minima of
-Deep Neural Networks) *Simon S. Du, Jason D. Lee, Haochuan Li, Liwei Wang, Xiyu Zhai* ([Slides](http://www-bcf.usc.edu/~lee715/slides/foundations_DL.pdf)about DL Theory by *Jason Lee*)
+- 2 [Gradient Descent Finds Global Minima of Deep Neural Networks](https://arxiv.org/pdf/1811.03804.pdf) *Simon S. Du, Jason D. Lee, Haochuan Li, Liwei Wang, Xiyu Zhai* 
+
+([Slides](http://www-bcf.usc.edu/~lee715/slides/foundations_DL.pdf) about DL Theory by *Jason Lee*)
 
 ### 9/15/2018
 
