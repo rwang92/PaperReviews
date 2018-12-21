@@ -4,7 +4,7 @@ Updates about Reading or Readed Paper or Articles
 
 ### 12/20/2018
 
-- 1 [Neuronal Capacity](https://www.math.uci.edu/~rvershyn/papers/bv-NIPS2018.pdf)
+- 1 [Neuronal Capacity](https://www.math.uci.edu/~rvershyn/papers/bv-NIPS2018.pdf) *Pierre Baldi, Roman Vershynin*
 
 ### 9/15/2018
 
