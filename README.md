@@ -8,6 +8,8 @@ Updates about Reading or Readed Paper or Articles
 
 - 2 [Provable limitations of deep learning](https://arxiv.org/pdf/1812.06369.pdf) *Emmanuel Abbe, Colin Sandon*
 
+- 3 [Meta-Gradient Reinforcement Learning](https://arxiv.org/pdf/1805.09801.pdf)
+
 ### 9/15/2018
 
 - 1 [Neural Arithmetic Logic Units](https://github.com/rwang92/PaperReviews/blob/master/Doc/NALU.md) *Andrew Trask, Felix Hill, Scott Reed, Jack Rae, Chris Dyer, Phil Blunsom*
