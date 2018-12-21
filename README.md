@@ -10,6 +10,13 @@ Updates about Reading or Readed Paper or Articles
 
 - 3 [Meta-Gradient Reinforcement Learning](https://arxiv.org/pdf/1805.09801.pdf) *Zhongwen Xu, Hado van Hasselt, David Silver*
 
+### 11/13/2018
+
+- 1 [A Convergence Theory for Deep Learning via Over-Parameterization](https://arxiv.org/pdf/1811.03962.pdf) *Zeyuan Allen-Zhu, Yuanzhi Li, Zhao Song*
+
+- 2 [Gradient Descent Finds Global Minima of Deep Neural Networks](Gradient Descent Finds Global Minima of
+Deep Neural Networks) *Simon S. Du, Jason D. Lee, Haochuan Li, Liwei Wang, Xiyu Zhai* ([Slides](http://www-bcf.usc.edu/~lee715/slides/foundations_DL.pdf)about DL Theory by *Jason Lee*)
+
 ### 9/15/2018
 
 - 1 [Neural Arithmetic Logic Units](https://github.com/rwang92/PaperReviews/blob/master/Doc/NALU.md) *Andrew Trask, Felix Hill, Scott Reed, Jack Rae, Chris Dyer, Phil Blunsom*
