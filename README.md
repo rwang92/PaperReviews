@@ -6,6 +6,8 @@ Updates about Reading or Readed Paper or Articles
 
 - 1 [Neuronal Capacity](https://www.math.uci.edu/~rvershyn/papers/bv-NIPS2018.pdf) *Pierre Baldi, Roman Vershynin*
 
+- 2 [Provable limitations of deep learning](https://arxiv.org/pdf/1812.06369.pdf)
+
 ### 9/15/2018
 
 - 1 [Neural Arithmetic Logic Units](https://github.com/rwang92/PaperReviews/blob/master/Doc/NALU.md) *Andrew Trask, Felix Hill, Scott Reed, Jack Rae, Chris Dyer, Phil Blunsom*
