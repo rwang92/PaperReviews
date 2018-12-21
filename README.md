@@ -8,7 +8,7 @@ Updates about Reading or Readed Paper or Articles
 
 - 2 [Provable limitations of deep learning](https://arxiv.org/pdf/1812.06369.pdf) *Emmanuel Abbe, Colin Sandon*
 
-- 3 [Meta-Gradient Reinforcement Learning](https://arxiv.org/pdf/1805.09801.pdf)
+- 3 [Meta-Gradient Reinforcement Learning](https://arxiv.org/pdf/1805.09801.pdf) *Zhongwen Xu, Hado van Hasselt, David Silver*
 
 ### 9/15/2018
 
