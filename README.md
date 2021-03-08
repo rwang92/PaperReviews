@@ -6,8 +6,11 @@ Updates about Reading or Readed Paper or Articles
 
 - 1 [Adapting Neural Networks for the Estimation of
 Treatment Effects](https://arxiv.org/pdf/1906.02120.pdf) *Claudia Shi, David M. Blei, Victor Veitch*
+
 - 2 [Neural Tangent Kernel: Convergence and Generalization in Neural Networks](https://arxiv.org/pdf/1806.07572.pdf) *Arthur Jacot, Franck Gabriel, Clément Hongler*
+
 - 3 [When Should You Adjust Standard Errors for Clustering?](https://www.nber.org/system/files/working_papers/w24003/w24003.pdf) *Alberto Abadie, Susan Athey, Guido W. Imbens, Jeffrey Wooldridge*
+
 - 4 [Towards Understanding Ensemble, Knowledge Distillation
 and Self-Distillation in Deep Learning](https://arxiv.org/pdf/2012.09816.pdf) *Zeyuan Allen-Zhu, Yuanzhi Li*
 
